@@ -1,6 +1,15 @@
-# Dex.js
+<h1 align="center">
+  <img src="./assets/Dex.js.png" alt="Dex.js Icon" width="50" style="vertical-align: middle;" />
+  Dex.js
+</h1>
 
-![Alternative to NestJS](https://img.shields.io/badge/alternative%20to-NestJS-red?style=for-the-badge&logo=nestjs) ![Express-based](https://img.shields.io/badge/based%20on-Express.js-blue?style=for-the-badge&logo=express) ![TypeScript](https://img.shields.io/badge/TypeScript-%E2%9C%94%EF%B8%8F-3178C6?style=for-the-badge&logo=typescript) ![Modular Architecture](https://img.shields.io/badge/Modular%20Architecture-%E2%9C%94-green?style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/alternative%20to-NestJS-red?style=for-the-badge&logo=nestjs" />
+  <img src="https://img.shields.io/badge/based%20on-Express.js-blue?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/TypeScript-%E2%9C%94%EF%B8%8F-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Modular%20Architecture-%E2%9C%94-green?style=for-the-badge" />
+</p>
+
 
 > **Dex.js** — A lightweight, modular framework built on top of Express.js, designed to make your backend development faster, cleaner, and way more scalable.
 
